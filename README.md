@@ -1,2 +1,2 @@
 # BlogImages
-Repository for storing blog images
+Repository for Storing Blog Images
